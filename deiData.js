@@ -2,7 +2,6 @@
 
 const deiData = {
     "Big Mouth": 7,
-    "The Big Bang Theory": 8,
-    "Stranger Things": 9
+    "Never Have I Ever": 8,
+    "Cunk On Earth": 9
   };
-  
